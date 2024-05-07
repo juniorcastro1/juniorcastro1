@@ -1,10 +1,10 @@
 ## Hi! I'm Junior Castro
 
-- 🔭 I’m currently working as an iOS Tutor
-- 🌱 I’m currently learning Swift/SwiftUI/UIKit
+- 🔭 I’m currently search for new challenges
+- 🌱 Learning Kotlin/Android and tinkering with Swift/SwiftUI
 - 😄 Pronouns: He/They
 
-I'm a Computer Engineering student at IFCE
+I'm graduating with a bachelor's degree in Computer Engineering at IFCE, located in a large city called Fortaleza, Brazil
 
   ##
   
@@ -16,8 +16,10 @@ I'm a Computer Engineering student at IFCE
   ##
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Junior-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
